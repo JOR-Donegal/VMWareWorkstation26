@@ -10,7 +10,7 @@ Draw the network from the perspective of the GUI VM; What can you connect to?
 Note that the bridged only network can cause disruption on the host’s LAN and you should not use it without first discussing with your lecturer. If you have more than one network card, you can have more than one bridged network.
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig4.png">
+<img src = "https://jor-donegal.github.io/VMWareWorkstation26/images/fig4.png">
 <figcaption>Fig 4. Bridged Network</figcaption>
 </figure>
 

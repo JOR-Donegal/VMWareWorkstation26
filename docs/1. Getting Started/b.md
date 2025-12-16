@@ -8,7 +8,7 @@ A video walk through demonstrating how to build a Windows 10 VM can be found her
 A video walk through demonstrating how to build a Windows 2016 VM can be found here.
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig3.png">
+<img src = "https://jor-donegal.github.io/VMWareWorkstation26/images/fig3.png">
 <figcaption>Fig 3. A VM instance</figcaption>
 </figure>
 

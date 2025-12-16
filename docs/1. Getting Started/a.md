@@ -15,7 +15,7 @@ If you want to run Docker or Hyper-V in a VM (we will!) then you need nested vir
 To test if this is working, create a VM and tick the box to enable nested virtualization. 
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig1.png">
+<img src = "https://jor-donegal.github.io/VMWareWorkstation26/images/fig1.png">
 <figcaption>Fig 1. Settings.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ bcdedit /set hypervisorlaunchtype off
 I also ran gpedit, the policy editor.
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig2.png">
+<img src = "https://jor-donegal.github.io/VMWareWorkstation26/images/fig2.png">
 <figcaption>Fig 2. Settings.</figcaption>
 </figure>
 
