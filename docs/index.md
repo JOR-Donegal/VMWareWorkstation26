@@ -7,3 +7,8 @@ In our courses, desktop virtualization is done using VMWare Workstation or Micro
 You need to develop a good skill level and familiarity and understand what you can and cannot do with Virtual Machines (VMs). You also need to understand snapshots, cloning and the VM network environment. The examples I give or details in my notes may be version specific and relate to a particular distro of Linux, it is your responsibility to ensure everything works. I don’t give step by step instructions for everything you have to do.
 
 Figuring out how to do things is part of the exercise!
+
+When you finish...
+You should show that you have completed and tested the topics, snapshots, clones and networking. 
+
+You should have a summary table of data and three sketches. You must establish that you have tested as specified. You should be able to draw some conclusions as to the application of this technique, where each LAN type might be used, duration, etc.
